@@ -13,7 +13,7 @@ fi
 homedir=$1
 
 # dotfiles directory
-dotfiledir=${homedir}/dotfiles
+dotfiledir=${homedir}/Dotfiles
 
 # list of files/folders to symlink in ${homedir}
 files="bash_profile bashrc bash_prompt aliases vimrc"
